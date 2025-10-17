@@ -1,0 +1,12 @@
+sentence-transformers
+transformers
+chromadb
+pdfplumber
+tqdm
+streamlit
+pyngrok
+pandas
+matplotlib
+seaborn
+langchain
+torch
